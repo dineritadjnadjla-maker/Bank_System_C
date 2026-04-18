@@ -47,6 +47,11 @@ int isDigitsOnly(const char *str);
 
 // من LAB 02 (يمكنك إضافتها لاحقاً)
 void accountMenu(void); 
+void depositMoney(void);
+void transferMoney(void);
+void withdrawMoney(void);
+void modifyAccountType(void);
+void accountInquiry(void);
 
 // من LAB 03
 void saveToFile(void);
